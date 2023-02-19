@@ -7,7 +7,7 @@ pipeline {
     stage('Hello') {
       steps {
         sh '''
-          java -version
+          mvn clean verify
         '''
       }
     }
