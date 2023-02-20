@@ -7,7 +7,6 @@ pipeline {
     stage('Hello') {
       steps {
         sh '''
-          sleep 15
           mvn clean verify
         '''
       }
