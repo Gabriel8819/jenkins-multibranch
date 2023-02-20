@@ -8,7 +8,7 @@ public class Printer {
 		System.out.println("one");
 		System.out.println("two");
 		
-		return "Printer----ert " + s;
+		return "Printer-------ert " + s;
 	}
 	
 }
