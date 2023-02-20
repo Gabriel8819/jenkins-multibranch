@@ -6,7 +6,7 @@ public class Printer {
 		System.out.println("Hello world 2");
 		
 		
-		return "Printer----ert " + s;
+		return "Printer-------ert " + s;
 	}
 	
 }
