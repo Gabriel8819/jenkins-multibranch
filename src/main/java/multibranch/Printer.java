@@ -14,23 +14,10 @@ public class Printer {
 
 		System.out.println("three");
 		
+		System.out.println("1");
 		
 		
-		System.out.println("four");
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		System.out.println("five");
-		
-		
+
 		
 
 		return "Printer----------ert " + s;
