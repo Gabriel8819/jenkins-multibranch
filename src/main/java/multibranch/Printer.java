@@ -19,10 +19,10 @@ public class Printer {
 System.out.println("ones");
 		
 		//two
-
+System.out.println("two");
 
 	//three
-
+System.out.println("three");
 
 		
 		return "Printer----------ert " + s;
