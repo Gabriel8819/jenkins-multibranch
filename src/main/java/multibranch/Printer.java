@@ -11,12 +11,16 @@ public class Printer {
 		System.out.println("two");
 		System.out.println("three");
 		
+
 		System.out.println("1");
 		
 		
+		//ones
 System.out.println("ones");
 		
 
+		
+		
 		return "Printer----------ert " + s;
 	}
 	
