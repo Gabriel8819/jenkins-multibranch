@@ -14,7 +14,7 @@ public class Printer {
 		System.out.println("1");
 		
 		
-
+System.out.println("ones");
 		
 
 		return "Printer----------ert " + s;
