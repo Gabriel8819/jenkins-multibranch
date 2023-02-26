@@ -9,6 +9,7 @@ public class Printer {
 		//test
 		
 
+<<<<<<< HEAD
 		System.out.println("one");
 		System.out.println("two");
 
@@ -28,6 +29,8 @@ System.out.println("two");
 
 	//three
 
+=======
+>>>>>>> 09a36a0 (add before remote commit)
 
 		return "Printer----------ert " + s;
 	}
